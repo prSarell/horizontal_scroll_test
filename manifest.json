@@ -1,1 +1,16 @@
-
+{
+  "name": "Horizontal Scroll Test",
+  "short_name": "Scroll Test",
+  "description": "A simple horizontal scroll test app for iPhone",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f0f0f0",
+  "theme_color": "#4ecdc4",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
